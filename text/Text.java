@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Text {
 
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
+		// TODO 自动生成的方法存根
 		System.out.printf("hello java!");
 		System.out.println("hello word!");
 		Scanner in = new Scanner(System.in);
