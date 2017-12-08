@@ -5,13 +5,13 @@ import java.util.Scanner;
 public class Text {
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
+		// TODO 脳脭露炉脡煤鲁脡碌脛路陆路篓麓忙赂霉
 		System.out.printf("hello java!");
 		System.out.println("hello word!");
 		Scanner in = new Scanner(System.in);
 		int price = 0 ;
-		System.out.println(price);
 		price=in.nextInt();
+		System.out.println(price);
 		
 		}
 
